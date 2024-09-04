@@ -1,0 +1,29 @@
+Preguntas de reflexión:
+
+• Pregunta 1: ¿Por qué surgió la necesidad de DevOps en el desarrollo de software?
+
+Ya que había como nos dicen en el texto los usuarios recibían productos que no podían ser actualizados ni recibir mantenimiento , ósea si el producto final tenia algún error el usuario no podía recibir una actualización. Asi como también se necesitaba mucho tiempo entre la comunicación entre el equipo de desarrollo y operaciones ya que trabajaban de forma independiente.
+
+• Pregunta 2: Explica cómo la falta de comunicación y coordinación entre los equipos de
+desarrollo y operaciones en el pasado ha llevado a la creación de DevOps.
+
+El equipo de desarrollo y operaciones eran silos ya que no había comunicación en el medio del desarrollo un ejemplo de esto lo encontramos en la lectura donde nos dicen que el equipo de desarrollo enviaba un producto que ya estaba listo y que funcionaba correctamente en sus equipos pero al pasar la muralla de equipo de operaciones a ellos no le funcionaban y no podía hacer la implementación del sistema lo que generaba retrasos.
+
+• Pregunta 3: Describe cómo el principio de mejora continua afecta tanto a los aspectos
+técnicos como culturales de una organización.
+
+Con respecto al aspecto técnico la mejora continua optimiza procesos de entrega de software asegurándose que sean seguro eficientes y adaptable mediante métricas del rendimiento y automatización de flujos de trabajo, esto resulta con la entrega de un producto mas rápido y optimo con un uso eficiente de los recursos.
+
+En el ámbito cultural fomenta un entorno colaborativo con aprendizaje constante donde valoran la retroalimentación e innovación, también contribuye a romper con los silos entre los diferentes grupos de trabajo.
+
+• Pregunta 4: ¿Qué significa que DevOps no se trata solo de herramientas, individuos o
+procesos?
+
+Es que DevOps no es algo o alguien sino la cultura de transformar una organización de trabajo en un entorno colaborativo con feedbacks continuos mediante sprints cada cierto tiempo con un líder fuerte que pueda realizar este cambio en la organización,  no solo se trata de contratar personal altamente calificado.
+Podemos decir que devops es un cambio de mentalidad cultural con el que disolvemos los silos; podemos citar la frase Patrick Debois "DevOps es todo lo que haces para superar los silos lo demás es ingeniería"; y esto genera valor al usuario final.
+
+• Pregunta 5: Según el texto, ¿cómo contribuyen los equipos autónomos y multifuncionales a
+una implementación exitosa de DevOps?
+
+Los equipos DevOps cuentan con perfiles multifacéticos para que a la hora de tener algunas dudas puedan tener respuestas rápidas y acelerar procesos, tener este mejor flujo de trabajo ayuda a poder eliminar los silos que es el principal problema que busca resolver DevOps.
+
